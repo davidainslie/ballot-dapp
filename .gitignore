@@ -45,3 +45,6 @@ bin/
 
 # General
 *.class
+
+# Custom
+ballot-contract/build
